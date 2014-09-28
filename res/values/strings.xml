@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlagQuiz</string>
+    <string name="Choices">Select Number Of Choices</string>
+    <string name="Correct">Correct</string>
+    <string name="Guess_Country">Guess Country</string>
+    <string name="guesses">guesses</string>
+    <string name="Incorrect_answer">Incorrect Answer</string>
+    <string name="more_regions_title">More Regions Required</string>
+    <string name="more_regions_message">There are not enough countries in the selected regions. Please select more regions.</string>
+    <string name="of">Of</string>
+    <string name = "ok">OK</string>
+    <string name="questions">Questions</string>
+    <string name="quiz_title">Ten Question Flag Quiz</string>
+    <string name="regions">Select Regions</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="developer">Developer</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="regions_list">
+        <item>Africa</item>
+        <item>Asia</item>
+        <item >Europe</item>
+        <item >North_America</item>
+        <item >Ocenia</item>
+        <item >South_America</item>
+    </string-array>
+    <string-array name="guesseslist">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    
+	
+</resources>
